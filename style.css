@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+}
+
+body{
+    background-color: red;
+}
+
+h2{
+    font-size: 55px;
+    color: white;
+}
