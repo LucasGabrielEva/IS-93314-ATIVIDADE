@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+}
+
+body{
+    background-color: white;
+}
+
+h2{
+    font-size: 55px;
+    color: blue;
+    margin: 20px auto;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+
+button{
+    display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
